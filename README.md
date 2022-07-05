@@ -11,7 +11,9 @@ This person portfolio  has four parts: The first part is where you find more abo
 2. CSS3
 # Features
 1. You can view all infiormation you may need from author
+
 2.You can call me via this portifolio
+
 3.you can send a message on whatsapp,phone,facebook or via email.
 # Tools
 1. VS Code
