@@ -19,3 +19,10 @@ This person portfolio  has four parts: The first part is where you find more abo
 1. VS Code
 # Author
 ## UWAYO Noella
+[Github: UWAYONoella](https://github.comUWAYONoella)
+
+<https://github.comUWAYONoella>
+
+[email: noellawayo2019@gmail.com](https://email.com/UWAYONoella)
+
+<https://email.com/UWAYONoella>
