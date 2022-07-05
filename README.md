@@ -5,4 +5,4 @@ By this person portfolio will be easy to know more details and all required info
 # Project Description
 This person portfolio  has four parts: The first part is where you find more about me; names, ages, photo and who am I in deatails like my characteristics and duties . The second part is where  you find all schools I have done and what I have got. The third part is where  you find  people that know me. The fourth part is where  you find my knowledges in different fields and skills I got in different trainings I attended that had been offered by different fields.
 ## Sceenshoot
-![photod](https://user-images.githubusercontent.com/106772337/177333566-27d9afb2-078f-4eb8-9bdc-897de14ce1e6.PNG)
+![photod](https://user-images.githubusercontent.com/106772337/177340134-cfedc06c-d8c9-4ba2-88d2-4abc31e0f752.PNG)
