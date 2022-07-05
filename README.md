@@ -20,7 +20,7 @@ This person portfolio  has four parts: The first part is where you find more abo
 # Author
 ## UWAYO Noella
 https://github.com/PatsiTech/Noella-L2-G1
-<https://github.comUWAYONoella>
+
 
 [email: noellawayo2019@gmail.com](https://email.com/UWAYONoella)
 
