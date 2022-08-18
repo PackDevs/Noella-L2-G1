@@ -1,6 +1,6 @@
 .container{
     height:100%;
-    width: 80%;
+    width: 60%;
     background-color:rgba(0, 0, 0, 0.621);
     margin-left: 10%;
     margin-right: 40px;
@@ -10,7 +10,7 @@
     background-color: rgba(0, 0, 0, 0.4);
     display: grid;
     grid-template-columns: repeat(2,1fr);
-    height: 60px;
+    height: 60%;
 }
 .nav-bar a{
     text-decoration: none;
@@ -39,18 +39,20 @@
 }
 .mai{
     background-color: rgba(0, 0, 0, 0.046);
-    height: auto;
+    height: 50%;
     display: grid;
     grid-template-columns: repeat(2,1fr);
     width: 100%; 
-    color: aliceblue;  
+    color: aliceblue;
+    /* padding-bottom: 600px; */
 }
 .social{
     background-color: rgba(0, 0, 0, 0.046);
     height: auto;
     display: grid;
     grid-template-columns: repeat(4,1fr);
-    width: 100%;   
+    width: 100%; 
+  
 }
 .social a{
     text-decoration: none;
@@ -85,6 +87,7 @@
     display: grid;
     grid-template-columns:1fr ;
     background-color: rgb(205, 240, 214); 
+    /* margin-top: -250px;  */
  }
 }
 
