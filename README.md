@@ -9,6 +9,7 @@ This person portfolio  has four parts: The first part is where you find more abo
 # Build with
 1. HTML5
 2. CSS3
+3.  JS
 # Features
 1. You can view all infiormation you may need from author
 
