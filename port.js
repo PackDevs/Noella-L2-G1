@@ -24,7 +24,7 @@ else{
 
 setTimeout(()=>{
     Message();
-    },5500)
+    },10000)
 }
 })
 function Message(){
